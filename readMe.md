@@ -7,6 +7,6 @@ Purpose: Demonstrate a method for reconstruction of multi‐dimensional MR finge
 
 2) Clean synthetic numerical Brainweb phantom predictions ("Phantom_clean" file)
 
-3) Clean synthetic numerical Brainweb phantom predictions ("Phantom_noise" file)
+3) Noisy synthetic numerical Brainweb phantom predictions ("Phantom_noise" file)
 
 
